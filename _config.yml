@@ -32,7 +32,7 @@ url: "https://bengalicouncil.github.io/font" # the base hostname & protocol for 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-permalink: /:title:output_ext
+permalink: /font/:title:output_ext
 show_excerpts: true
 
 github_repo:
